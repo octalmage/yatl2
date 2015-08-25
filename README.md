@@ -2,6 +2,8 @@
 
 YATL shows you one item at a time, so you can focus and get things done. 
 
+[**Download**](https://github.com/octalmage/yatl/releases/latest)
+
 ## Screenshots
 
 <p align="center">
